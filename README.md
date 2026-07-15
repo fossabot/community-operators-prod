@@ -1,5 +1,6 @@
 # Openshift Community Operators
 [![License](http://img.shields.io/:license-apache-blue.svg)](http://www.apache.org/licenses/LICENSE-2.0.html)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FApicurio%2Fcommunity-operators-prod.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FApicurio%2Fcommunity-operators-prod?ref=badge_shield)
 
 ## About this repository
 
@@ -30,3 +31,7 @@ Some APIs versions are deprecated and are OR will no longer be served. See https
 ## Reporting Bugs
 
 Use the issue tracker in this repository to report bugs.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FApicurio%2Fcommunity-operators-prod.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FApicurio%2Fcommunity-operators-prod?ref=badge_large)
